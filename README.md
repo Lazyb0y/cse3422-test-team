@@ -5,7 +5,8 @@ One sentence: who this is for and what problem it solves.
 | | |
 |---|---|
 | **Team** | Name (@github-handle), role · Name (@github-handle), role · … |
-| **Jira board** | https://YOUR-SITE.atlassian.net/jira/software/projects/KEY/boards/1 |
+| **Jira board** | https://thisisfoysal.atlassian.net/jira/software/projects/ORB/boards/2 |
+
 | **Live app** | Added in Class 8 |
 | **Stack** | Frontend: … · Backend: … · Database: … · External API: … |
 | **Course** | UIU CSE 3422 Software Engineering Laboratory, Fall 2026 |
